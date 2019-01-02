@@ -1,0 +1,11 @@
+/target/
+
+#eclipse files and directories
+.settings
+.classpath
+.project
+
+#VSCode files and directories
+.vscode
+
+.DS_Store
